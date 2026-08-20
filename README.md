@@ -8,10 +8,10 @@ annotation VCF.
 
 This project is built with CMake and links against HTSlib through
 `pkg-config`. `CMakeLists.txt` defaults to the local HTSlib installation at
-`/qnap-wlee2/wanpingleelab/chengp/tools/htslib-1.16`, so run:
+`/../htslib-1.16`, so run:
 
 ```bash
-cd /qnap-wlee2/wanpingleelab/chengp/pangenome/scripts/Pangenie_to_biallelic
+cd /../Pangenie_to_biallelic
 cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
 cmake --build build -j
 ```
@@ -19,7 +19,7 @@ cmake --build build -j
 The compiled executable is written to:
 
 ```text
-/qnap-wlee2/wanpingleelab/chengp/pangenome/scripts/Pangenie_to_biallelic/build/convert-to-biallelic
+/../PanGenie-convert-to-biallelic/build/convert-to-biallelic
 ```
 
 To use a different HTSlib installation, pass its prefix explicitly:
