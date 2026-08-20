@@ -1,0 +1,18 @@
+Start testing: Jul 23 09:41 EDT
+----------------------------------------------------------
+1/1 Testing: python_parity
+1/1 Test: python_parity
+Command: "/qnap-wlee2/wanpingleelab/chengp/pangenome/scripts/Pangenie_to_biallelic/tests/python_parity.sh"
+Directory: /qnap-wlee2/wanpingleelab/chengp/pangenome/scripts/Pangenie_to_biallelic/build
+"python_parity" start time: Jul 23 09:41 EDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"python_parity" end time: Jul 23 09:41 EDT
+"python_parity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 23 09:41 EDT

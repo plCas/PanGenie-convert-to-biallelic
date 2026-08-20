@@ -1,0 +1,5 @@
+/qnap-wlee2/wanpingleelab/chengp/pangenome/scripts/Pangenie_to_biallelic/build/CMakeFiles/ctb_core.dir
+/qnap-wlee2/wanpingleelab/chengp/pangenome/scripts/Pangenie_to_biallelic/build/CMakeFiles/convert-to-biallelic.dir
+/qnap-wlee2/wanpingleelab/chengp/pangenome/scripts/Pangenie_to_biallelic/build/CMakeFiles/test.dir
+/qnap-wlee2/wanpingleelab/chengp/pangenome/scripts/Pangenie_to_biallelic/build/CMakeFiles/edit_cache.dir
+/qnap-wlee2/wanpingleelab/chengp/pangenome/scripts/Pangenie_to_biallelic/build/CMakeFiles/rebuild_cache.dir

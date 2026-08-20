@@ -1,0 +1,11 @@
+##fileformat=VCFv4.2
+##INFO=<ID=AF,Number=A,Type=Float,Description="removed by converter">
+##INFO=<ID=MA,Number=1,Type=String,Description="kept by converter">
+##INFO=<ID=UK,Number=1,Type=String,Description="kept by converter">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##FORMAT=<ID=GQ,Number=1,Type=Integer,Description="Genotype quality">
+##FORMAT=<ID=GL,Number=G,Type=Float,Description="removed by converter">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	SAMPLE1	SAMPLE2
+chr1	90	.	A	C,T	50	PASS	ID=v1,v2:v3;MA=foo;UK=bar;ZZ=drop	GT:GQ:KC	1/2:99:x	0|.:12:y
+chr1 95 . A C . PASS ID=v1 GT:GQ 1/1:7 0/0:3
+chr1	999	.	N	<UNK>	.	PASS	ID=unknown	GT	1/1

@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG "CMakeFiles/convert-to-biallelic.dir/src/main.cpp.o" -o convert-to-biallelic   -L/qnap-wlee2/wanpingleelab/chengp/tools/htslib-1.16/lib  -Wl,-rpath,/qnap-wlee2/wanpingleelab/chengp/tools/htslib-1.16:/qnap-wlee2/wanpingleelab/chengp/tools/htslib-1.16/lib libctb_core.a /qnap-wlee2/wanpingleelab/chengp/tools/htslib-1.16/libhts.so 
